@@ -9,6 +9,12 @@ https://flucast-m02-03.flumotion.com/cope/net1.mp3
 #EXTINF:-1 ,ONDACERO
 https://liveradio.com.es:8042/stream?listening-from-radio-garden=1659972997
 
+#EXTINF:-1 ,R.MARCA
+https://20073.live.streamtheworld.com/RADIOMARCA_NACIONAL.mp3?dist=radiomarcaweb
+
+#EXTINF:-1 ,RNE-1
+https://crtve--di--crtve-ice--01--cdn.cast.addradio.de/crtve/rne1/main/mp3/high?ar-distributor=ffa0&_art=dj0yJmlwPTkyLjE4OS4yNi43NiZpZD1pY3NjeGwtb3AzM3hzNG9iJnQ9MTY2MDEyOTAxOCZzPTc4NjZmMjljI2M5N2IwZTZlNTU1YTVmYWI5NTRiYWE4MGJkNWU4NTUy
+
 #EXTINF:-1 ,RNE-5
 https://crtve--di--crtve-ice--02--cdn.cast.addradio.de/crtve/rne5/main/mp3/high?ar-distributor=ffa0&_art=dj0yJmlwPTkyLjE4OS4yNi43NiZpZD1pY3NjeGwtZ2VzM3NpNm9iJnQ9MTY2MDA1OTIwOSZzPTc4NjZmMjljIzM3NDU5NzQ1ZThlZTA1NzBjYmUxYzk0M2IzNDNhYTc3
 
@@ -24,8 +30,14 @@ https://20103.live.streamtheworld.com/LOS40_URBANAAC.aac?csegid=12000&gdpr=1&gdp
 #EXTINF:-1 ,LOS40-CL
 https://25633.live.streamtheworld.com/LOS40_CLASSICAAC.aac?csegid=12000&gdpr=1&gdpr_consent=CPdYzQAPdYzQAAHABBENCbCsAP_AAAAAAAAAI8Nf_X__b3_j-_5___t0eY1f9_7__-0zjhfdl-8N3f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n1_z-ZKY7_____77__-_______f__-_f___p_3____f_V_997fn9_____9_P___9v__9__________3__AAAASSgAwABBHgNABgACCPAqADAAEEeCkAGAAII8DoAMAAQR4IQAYAAgjwEgAwABBHgRABgACCPAyADAAEEeAAA.f_gAAAAAAAAA&dist=los40-web-tod-player&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=be2ebeaa-fa97-4090-a32e-007023e039cf
 
+#EXTINF:-1 ,ELS40
+https://20103.live.streamtheworld.com/LOS40_CATAAC.aac?csegid=12000&gdpr=1&gdpr_consent=CPdcGMAPdcGMAAHABBENCbCsAP_AAAAAAAAAI8Nf_X__b3_j-_5___t0eY1f9_7__-0zjhfdl-8N3f_X_L8X_2M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbe2dYGH9_n1_z-ZKY7_____77__-_______f__-_f___p_3____f_V_997fn9_____9_P___9v__9__________3__AAAASSgAwABBHgNABgACCPAqADAAEEeCkAGAAII8DoAMAAQR4IQAYAAgjwEgAwABBHgRABgACCPAyADAAEEeAAA.f_gAAAAAAAAA&dist=los40-web-tod-player&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&burst-time=15&sbmid=60659504-510a-4fb3-c8a2-97231a65e720
+
 #EXTINF:-1 ,CAD-100
 https://cadena100-cope-rrcast.flumotion.com/cope/cadena100.mp3
+
+#EXTINF:-1 ,EUROPAFM
+https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
 
 #EXTINF:-1 ,ROCK FM
 https://flucast-m05-03.flumotion.com/cope/rockfm.mp3
